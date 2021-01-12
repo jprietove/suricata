@@ -1,6 +1,6 @@
 # Suricata para GNS3
 # Suricata
-FROM jprietove/nuc
+FROM jprietove/nuc:latest
 MAINTAINER Javier Prieto <javier.prieto.edu@juntadeandalucia.es>
 
 LABEL Title="Suricata para GNS3" \
